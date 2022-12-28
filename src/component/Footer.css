@@ -1,0 +1,23 @@
+.ank{
+    color: rgb(97, 84, 84);
+    text-decoration: none;
+}
+#footer{
+    background-color: rgb(224, 223, 209);
+    display: flex;
+}
+#ff{
+    margin-left:20px ;
+}
+#me{
+    text-decoration: none;
+    color: blue;
+    
+    
+}
+#ffin{
+    display: flex;
+    justify-content: space-around;
+}
+
+    

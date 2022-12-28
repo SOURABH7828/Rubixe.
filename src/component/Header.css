@@ -1,0 +1,16 @@
+#imgg{
+    padding: 22px;
+    width: 15%;
+}
+.header{
+    
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    border: 5px solid black;
+}
+.an{
+    padding-top: 50px;
+    color: white;
+    text-decoration: none;
+}

@@ -1,0 +1,29 @@
+
+.input{
+    width: 300px;
+    height: 35px;
+    margin: 0px ;
+    border-radius: 5px;
+}
+
+.button{
+    background-color: rgb(34, 34, 110);
+    color: white;
+    width: 300px;
+    height: 35px;
+    margin: 10px;
+    border-radius: 5px;
+}
+#fff{
+    display: flex;
+    
+   
+}
+.sp{
+    border: 1px solid black;
+    width: 50%;
+    text-align: center;
+}
+#spp{
+    border-right: 5px;   
+}
